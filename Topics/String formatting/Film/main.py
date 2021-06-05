@@ -1,0 +1,5 @@
+movie = input()
+director = input()
+year = input()
+# print('{film} (dir. {director}) came out in {year}'.format(film = movie))
+print(f'{movie} (dir. {director}) came out in {year}')
